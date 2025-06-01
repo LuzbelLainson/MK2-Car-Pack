@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>sultanrsv82</modelName>
-      <txdName>sultanrsv82</txdName>
-      <handlingId>sultanrsv82</handlingId>
-      <gameName>sultanrsv82</gameName>
+      <modelName>sultanrsv8</modelName>
+      <txdName>sultanrsv8</txdName>
+      <handlingId>SULTANRSV8</handlingId>
+      <gameName>SULTANRSV8</gameName>
       <vehicleMakeName>KARIN</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>

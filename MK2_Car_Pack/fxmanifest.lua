@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 games { 'rdr3', 'gta5' }
 
-author 'LuzbelLainson'
-description 'MK2 Car Pack'
+author 'LuzbelLainson&ClawVTeam'
+description 'ClawV MK2 Car Pack'
 
 server_script 'server.lua'
 
@@ -47,9 +47,9 @@ data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/elegyrh6_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_rh6elegy'
 
 -- Annis Elegy RH7 --
-data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/elegyrh7_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/elegyrh7_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_rh7elegy'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/bnr34ffeng_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/bnr34ffeng_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_bnr34ffeng'
 
 -- Annis Elegy RH8-X --
 data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/elegyx_game.dat'
@@ -57,9 +57,9 @@ data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/elegyx_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_elegyx'
 
 -- Annis Roxanne --
-data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/roxanne_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/roxanne_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_roxanne'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/str6sr20_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/str6sr20_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_str6sr20'
 
 -- Annis ZR-250 Savestra --
 data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/zr250_game.dat'
@@ -252,3 +252,40 @@ data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/stratumc_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/stratumc_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/stratumc_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_zircoflow'
+
+
+-- Bravado Gauntlet Hellfire CTX --
+data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/lg247hemi57_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/lg247hemi57_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/lg247hemi57_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_lg247hemi57'
+
+-- Emperor Sheava --
+data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/sheavas_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/sheavas_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/sheavas_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_sheavas'
+
+-- Dinka Jester Race --
+data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/aq2jzgterace_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/aq2jzgterace_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/aq2jzgterace_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aq2jzgterace'
+
+-- Dinka Jester Stock --
+data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/aqtoy2jzstock_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/aqtoy2jzstock_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/aqtoy2jzstock_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aqtoy2jzstock'
+
+-- Annis ZR350 Nishukan --
+data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/fd3sid_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/fd3sid_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/fd3sid_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_fd3sid'
+
+-- Ubermacht Sentinel SG7 --
+data_file 'AUDIO_SYNTHDATA' 'audio/audioconfig/s55b30_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audio/audioconfig/s55b30_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/audioconfig/s55b30_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_s55b30'

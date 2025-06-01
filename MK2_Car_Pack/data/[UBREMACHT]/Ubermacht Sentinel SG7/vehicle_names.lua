@@ -1,0 +1,6 @@
+Citizen.CreateThread(function()
+AddTextEntry("gstsg71", "Sentinel SG7")
+AddTextEntry("gstsg71b", "Sentinel SG7 Drop")
+AddTextEntry("gstsg71c", "Sentinel SG7 CTX")
+AddTextEntry("gstsg71d", "Sentinel SG7 CTX Drop")
+end)
